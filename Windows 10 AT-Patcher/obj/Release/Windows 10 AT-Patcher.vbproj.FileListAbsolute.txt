@@ -1,0 +1,10 @@
+Q:\Visual Studio 2013\Windows 10 AT-Patcher\Windows 10 AT-Patcher\bin\Release\Windows 10 AT-Patcher.exe.config
+Q:\Visual Studio 2013\Windows 10 AT-Patcher\Windows 10 AT-Patcher\bin\Release\Windows 10 AT-Patcher.exe
+Q:\Visual Studio 2013\Windows 10 AT-Patcher\Windows 10 AT-Patcher\bin\Release\Windows 10 AT-Patcher.pdb
+Q:\Visual Studio 2013\Windows 10 AT-Patcher\Windows 10 AT-Patcher\bin\Release\Windows 10 AT-Patcher.xml
+Q:\Visual Studio 2013\Windows 10 AT-Patcher\Windows 10 AT-Patcher\obj\Release\Windows_10_AT_Patcher.MainForm.resources
+Q:\Visual Studio 2013\Windows 10 AT-Patcher\Windows 10 AT-Patcher\obj\Release\Windows_10_AT_Patcher.Resources.resources
+Q:\Visual Studio 2013\Windows 10 AT-Patcher\Windows 10 AT-Patcher\obj\Release\Windows 10 AT-Patcher.vbproj.GenerateResource.Cache
+Q:\Visual Studio 2013\Windows 10 AT-Patcher\Windows 10 AT-Patcher\obj\Release\Windows 10 AT-Patcher.exe
+Q:\Visual Studio 2013\Windows 10 AT-Patcher\Windows 10 AT-Patcher\obj\Release\Windows 10 AT-Patcher.xml
+Q:\Visual Studio 2013\Windows 10 AT-Patcher\Windows 10 AT-Patcher\obj\Release\Windows 10 AT-Patcher.pdb
